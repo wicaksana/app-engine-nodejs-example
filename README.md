@@ -1,3 +1,3 @@
 # Node.js app on Google App Engine
 
-tba.
+Link to the article (in Indonesian): [here]()https://arifwicaksana.net/membangun-aplikasi-di-google-app-engine/
